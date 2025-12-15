@@ -66,7 +66,7 @@ endmodule
 **RTL LOGIC UP COUNTER**
 <img width="1673" height="557" alt="Screenshot 2025-12-10 143928" src="https://github.com/user-attachments/assets/e5359aa1-a4b5-4fd9-b0e4-321c0a2e8cbc" />
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 <img width="1855" height="846" alt="Screenshot 2025-12-15 114229" src="https://github.com/user-attachments/assets/0ec138f3-d7a6-4b71-8af5-a0a3facc4003" />
 
 **TRUTH TABLE**
